@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction using XGBoost and Streamlit
+# 📈 Stock Price Prediction using XGBoost
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabilan-1616/Stock-prediction/blob/main/Stock_preditcion.ipynb)
 
@@ -11,10 +11,10 @@ This project demonstrates how to predict stock price movements using technical i
 
 ## 🔧 Features
 
-- **Jupyter Notebook** (`Stock_prediction.ipynb`):  
+- **Jupyter Notebook** (`Explained_stock_prediction.ipynb`):  
   Step-by-step explanation of data loading, feature engineering, model training, and evaluation.
 
-- **Streamlit App** (`stock_prediction.py`):  
+- **Streamlit App** (`Stock_prediction.py`):  
   Interactive web app to input stock tickers and get price predictions.
 
 - Technical indicators used:  
